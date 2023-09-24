@@ -5,12 +5,12 @@ Title: Java Encryption and Decryption Program
 The "Main" class in this Java Encryption and Decryption program serves as the central application that allows users to choose between encryption, decryption, or exiting the program. This class provides a user-friendly menu-driven interface to interact with the Encryption and Decryption functionalities.
 
 <h3>Key Features:</h3>
-1)It imports the necessary libraries, including the Scanner class for user input.
-2)The main method contains a continuous loop that presents the user with options to choose from: Encryption, Decryption, or Exit.
-3)If the user chooses Encryption (option 1), it creates an instance of the "Encryption" class and calls the "Encryption" method, allowing the user to encrypt a message.
-4)If the user chooses Decryption (option 2), it creates an instance of the "Decryption_V2" class and calls the "Decryption" method, allowing the user to decrypt a cipher text.
-5)If the user chooses Exit (option 3), the program gracefully exits with a message.
-6)This "Main" class acts as the entry point for the program, making it easy for users to access both the encryption and decryption features. It provides a clear and straightforward way to navigate the program's functionality. Users can choose their desired option by entering the corresponding number, and the program takes care of the rest, ensuring a smooth user experience.
+1)It imports the necessary libraries, including the Scanner class for user input.<br>
+2)The main method contains a continuous loop that presents the user with options to choose from: Encryption, Decryption, or Exit.<br>
+3)If the user chooses Encryption (option 1), it creates an instance of the "Encryption" class and calls the "Encryption" method, allowing the user to encrypt a message.<br>
+4)If the user chooses Decryption (option 2), it creates an instance of the "Decryption_V2" class and calls the "Decryption" method, allowing the user to decrypt a cipher text.<br>
+5)If the user chooses Exit (option 3), the program gracefully exits with a message.<br>
+6)This "Main" class acts as the entry point for the program, making it easy for users to access both the encryption and decryption features. It provides a clear and straightforward way to navigate the program's functionality. Users can choose their desired option by entering the corresponding number, and the program takes care of the rest, ensuring a smooth user experience.<br>
 
 
 <h2>Description:</h2>
