@@ -4,8 +4,7 @@ Title: Java Encryption and Decryption Program
 <h2>Main:</h2>
 The "Main" class in this Java Encryption and Decryption program serves as the central application that allows users to choose between encryption, decryption, or exiting the program. This class provides a user-friendly menu-driven interface to interact with the Encryption and Decryption functionalities.
 
-<h3>Key Features</h3>:
-
+<h3>Key Features:</h3>
 1)It imports the necessary libraries, including the Scanner class for user input.
 2)The main method contains a continuous loop that presents the user with options to choose from: Encryption, Decryption, or Exit.
 3)If the user chooses Encryption (option 1), it creates an instance of the "Encryption" class and calls the "Encryption" method, allowing the user to encrypt a message.
@@ -17,10 +16,10 @@ The "Main" class in this Java Encryption and Decryption program serves as the ce
 <h2>Description:</h2>
 This GitHub project, titled "Java Encryption and Decryption Program," is a Java-based program that provides a simple and interactive way to encrypt and decrypt messages using a specified key. The program consists of two classes: Encryption and Decryption_V2.
 
-<h2>Encryption Class</h2>:
+<h2>Encryption Class:</h2>
 The Encryption class is responsible for encrypting a user-provided message using a randomly generated key within the range of 100 to 600. The user is prompted to enter their message, and the program then processes the message character by character, applying the encryption algorithm. The resulting cipher text and the generated key are displayed to the user.
 
-<h2>Decryption_V2 Class</h2>:
+<h2>Decryption_V2 Class:</h2>
 The Decryption_V2 class serves as the counterpart to the Encryption class. It allows users to decrypt a cipher text by providing the encrypted message and the correct key. The program splits the cipher text into segments, each representing a group of characters, and then reverses the encryption process to recover the original message. The decrypted message is displayed to the user.
 
 Both classes make use of the Scanner class to interact with the user, ensuring a seamless and user-friendly experience.
