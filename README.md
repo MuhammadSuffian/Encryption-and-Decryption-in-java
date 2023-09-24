@@ -25,5 +25,5 @@ The Decryption_V2 class serves as the counterpart to the Encryption class. It al
 Both classes make use of the Scanner class to interact with the user, ensuring a seamless and user-friendly experience.
 
 This Java Encryption and Decryption program can be a valuable tool for learning about basic encryption techniques and can serve as a foundation for more advanced encryption and security-related projects. Feel free to explore and contribute to this open-source project on GitHub to enhance its functionality and usability.
-<h2>Decryption Class</h2>:
+<h2>Decryption Class:</h2>
 Decryption was the vary first class for Decryption which i changed and it ended up being Decryption_v2. but i added that for your Understanding
